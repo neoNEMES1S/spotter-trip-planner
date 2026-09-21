@@ -3,7 +3,7 @@
 Fill these only after publishing and verifying the actual links:
 
 - Hosted application: pending Lightsail deployment
-- GitHub repository: pending authenticated GitHub publishing
+- GitHub repository: https://github.com/neoNEMES1S/spotter-assignment
 - Loom walkthrough: pending recording
 
 ## Final acceptance
@@ -46,7 +46,7 @@ Hi Spotter team,
 Here is my full-stack assessment:
 
 - Live application: [insert verified URL]
-- Source code: [insert GitHub URL]
+- Source code: https://github.com/neoNEMES1S/spotter-assignment
 - 3–5 minute walkthrough: [insert Loom URL]
 
 The application uses Django and React, generates HOS-based trip plans and printable daily logs, and includes automated scheduling and API checks. Setup instructions and scheduling assumptions are documented in the README.

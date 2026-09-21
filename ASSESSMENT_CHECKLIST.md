@@ -13,8 +13,8 @@ Legend: `[x]` complete and verified locally; `[~]` implemented but needs an exte
   - The one-service Docker deployment is prepared in `Dockerfile` and documented in `README.md`, but there is no public URL yet.
 - [ ] **Create a 3–5 minute Loom walkthrough of the app and code.**
   - A timed walkthrough script and submission message are ready in `SUBMISSION.md`; recording and sharing are still outstanding.
-- [ ] **Share the GitHub code.**
-  - Local Git repository initialized; source publication is in progress.
+- [x] **Share the GitHub code.**
+  - Published: https://github.com/neoNEMES1S/spotter-assignment (public, `main`).
 - [—] **$100 reward.**
   - Administrative item; no application work is required.
 - [ ] **Make the hosted version accurate enough for Spotter’s testing.**
@@ -85,8 +85,8 @@ Legend: `[x]` complete and verified locally; `[~]` implemented but needs an exte
 1. **Configure live routing.** Obtain an openrouteservice key, set `ORS_API_KEY`, and run a real three-location route through geocoding, directions, map markers, itinerary, and logs.
 2. **Deploy publicly.** Build the Docker image or deploy the Django/React service, set `DEBUG=0`, `SECRET_KEY`, `ALLOWED_HOSTS`, `CSRF_TRUSTED_ORIGINS`, `ORS_API_KEY`, and HTTPS settings, then record the public URL.
 3. **Run hosted acceptance checks.** Repeat the sample, live route, 70-hour restart, invalid-input, mobile, and print checks from a fresh browser session against the public URL.
-4. **Publish the code on GitHub.** Initialize the repository, commit the source, add a remote, push it, and record the repository URL. Do not commit `.env` or API keys.
+4. **GitHub publication completed.** https://github.com/neoNEMES1S/spotter-assignment
 5. **Record and share the Loom.** Keep it between 3 and 5 minutes: inputs/assumptions, generated route, rest and fuel reasons, both daily logs, scheduler code, tests, and the cycle-history limitation.
 6. **Print verification completed locally.** Repeat on the hosted app as part of step 3.
 
-The remaining external dependencies are a live-routing key, a public deployment, GitHub publication, and the recorded Loom. The `$100 reward` remains administrative.
+The remaining external dependencies are a live-routing key, a public deployment and hosted acceptance checks, and the recorded Loom. The `$100 reward` remains administrative.

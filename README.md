@@ -132,7 +132,7 @@ For Lightsail, build with `docker build --platform linux/amd64 -t spotter-planne
 
 For a non-Docker Python deployment, run the frontend build, install `backend/requirements.txt`, run `python backend/manage.py collectstatic --noinput`, and start `gunicorn --chdir backend config.wsgi:application --bind 0.0.0.0:8000 --workers 2 --threads 4 --timeout 90`. Set the same environment variables.
 
-Publishing a GitHub repository, configuring a public host, and validating real route credentials remain deployment steps. This repository does not claim an existing public deployment.
+Source is published at https://github.com/neoNEMES1S/spotter-assignment. Configuring a public host and validating real route credentials remain deployment steps. This repository does not claim an existing public deployment.
 
 ## Suggested 3–5 minute Loom
 
