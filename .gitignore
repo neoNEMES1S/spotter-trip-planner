@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+node_modules/
+frontend/dist/
+staticfiles/
+*.sqlite3
+.DS_Store
+.superdesign/tmp/
+test-results/
+playwright-report/
