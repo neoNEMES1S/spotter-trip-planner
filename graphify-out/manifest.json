@@ -1,0 +1,152 @@
+{
+  "/Users/nemesis/Developer/spotter-assignment/backend/config/__init__.py": {
+    "mtime": 1789827660.918056,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/backend/config/settings.py": {
+    "mtime": 1789966104.1413212,
+    "ast_hash": "b7ed3c555a6e6a48b2724e7598a31d26",
+    "semantic_hash": "b7ed3c555a6e6a48b2724e7598a31d26"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/backend/config/urls.py": {
+    "mtime": 1789827661.0769503,
+    "ast_hash": "c1d96f4857fb574d468678a83f8b6005",
+    "semantic_hash": "c1d96f4857fb574d468678a83f8b6005"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/backend/config/wsgi.py": {
+    "mtime": 1789827661.038433,
+    "ast_hash": "67288f593d073ba6085704813f375209",
+    "semantic_hash": "67288f593d073ba6085704813f375209"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/backend/manage.py": {
+    "mtime": 1789827660.8784232,
+    "ast_hash": "d0a67393b09ade608ef943d06b5e5c8f",
+    "semantic_hash": "d0a67393b09ade608ef943d06b5e5c8f"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/backend/planner/__init__.py": {
+    "mtime": 1789827660.956708,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/backend/planner/logs.py": {
+    "mtime": 1789831009.7752528,
+    "ast_hash": "aea7de2c6463d1127ae457ca15297543",
+    "semantic_hash": "aea7de2c6463d1127ae457ca15297543"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/backend/planner/routing.py": {
+    "mtime": 1789827810.5333853,
+    "ast_hash": "746905d36e9c506b35dbada064d12583",
+    "semantic_hash": "746905d36e9c506b35dbada064d12583"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/backend/planner/scheduler.py": {
+    "mtime": 1789831066.0732622,
+    "ast_hash": "78f74c477fc4f6e6dc809fb9200c13ff",
+    "semantic_hash": "78f74c477fc4f6e6dc809fb9200c13ff"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/backend/planner/tests.py": {
+    "mtime": 1789966104.1826563,
+    "ast_hash": "839cc27cde672f482c2c83acf9d186fa",
+    "semantic_hash": "839cc27cde672f482c2c83acf9d186fa"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/backend/planner/views.py": {
+    "mtime": 1789831066.1153936,
+    "ast_hash": "1b7e91a943454ead0024516418fb0fcb",
+    "semantic_hash": "1b7e91a943454ead0024516418fb0fcb"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/dev.sh": {
+    "mtime": 1789830834.0767865,
+    "ast_hash": "c4ec875cdaa8844f7ab17b0e9518abaf",
+    "semantic_hash": "c4ec875cdaa8844f7ab17b0e9518abaf"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/frontend/package.json": {
+    "mtime": 1789831010.2004075,
+    "ast_hash": "25a1d2cc1e35f57d63027c7784e162d0",
+    "semantic_hash": "25a1d2cc1e35f57d63027c7784e162d0"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/frontend/src/App.tsx": {
+    "mtime": 1789831072.1439762,
+    "ast_hash": "fe49b7e759b40c4f7e6726aae21c207b",
+    "semantic_hash": "fe49b7e759b40c4f7e6726aae21c207b"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/frontend/src/api.ts": {
+    "mtime": 1789831072.1091251,
+    "ast_hash": "dc0e93917db3be821d9d08f4f69d6e3b",
+    "semantic_hash": "dc0e93917db3be821d9d08f4f69d6e3b"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/frontend/src/components/DailyLogSheet.tsx": {
+    "mtime": 1789831072.1568794,
+    "ast_hash": "1446874928f71f4e8c5cbcd56053f811",
+    "semantic_hash": "1446874928f71f4e8c5cbcd56053f811"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/frontend/src/components/LocationInput.tsx": {
+    "mtime": 1789831072.162305,
+    "ast_hash": "dd90782d96c98f398a7dd654fc105857",
+    "semantic_hash": "dd90782d96c98f398a7dd654fc105857"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/frontend/src/components/RouteMap.tsx": {
+    "mtime": 1789831072.1695824,
+    "ast_hash": "72ac5f3f6e10daf47b1a838b68e45ccf",
+    "semantic_hash": "72ac5f3f6e10daf47b1a838b68e45ccf"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/frontend/src/components/TripTimeline.tsx": {
+    "mtime": 1789831072.172453,
+    "ast_hash": "fa9a937d6b8382290351624e4863b404",
+    "semantic_hash": "fa9a937d6b8382290351624e4863b404"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/frontend/src/main.tsx": {
+    "mtime": 1789831072.1737077,
+    "ast_hash": "944f8b437c0115ed81bcee8b2aec029c",
+    "semantic_hash": "944f8b437c0115ed81bcee8b2aec029c"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/frontend/src/types.ts": {
+    "mtime": 1789831072.217198,
+    "ast_hash": "92b0f4a95d27ab8f34176376ad743859",
+    "semantic_hash": "92b0f4a95d27ab8f34176376ad743859"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/frontend/tsconfig.json": {
+    "mtime": 1789831072.227919,
+    "ast_hash": "240112f1c732e34de1f5c90eed0dab09",
+    "semantic_hash": "240112f1c732e34de1f5c90eed0dab09"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/frontend/vite.config.ts": {
+    "mtime": 1789831072.2207124,
+    "ast_hash": "c6cd18f39f280e884474cf7aafb014fb",
+    "semantic_hash": "c6cd18f39f280e884474cf7aafb014fb"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/scripts/smoke.py": {
+    "mtime": 1789966140.6169295,
+    "ast_hash": "848f3f872735bdb5bb0a62fc0e9c1f67",
+    "semantic_hash": "848f3f872735bdb5bb0a62fc0e9c1f67"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/ASSESSMENT_CHECKLIST.md": {
+    "mtime": 1789966509.9829865,
+    "ast_hash": "b19aed131e5b301183b0090bbdc76763",
+    "semantic_hash": "b19aed131e5b301183b0090bbdc76763"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/IMPLEMENTATION_PLAN.md": {
+    "mtime": 1789807785.2728384,
+    "ast_hash": "8341d45261bf3c17643a419ce04c9d21",
+    "semantic_hash": "8341d45261bf3c17643a419ce04c9d21"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/README.md": {
+    "mtime": 1789966510.0753949,
+    "ast_hash": "d3e60f3224becebc806a009b58ed1487",
+    "semantic_hash": "d3e60f3224becebc806a009b58ed1487"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/SUBMISSION.md": {
+    "mtime": 1789966510.029778,
+    "ast_hash": "12839e97e37b949004853ecc4b172435",
+    "semantic_hash": "12839e97e37b949004853ecc4b172435"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/backend/requirements.txt": {
+    "mtime": 1789827810.6143527,
+    "ast_hash": "ec0cd1a49ee0c318e5fbb133f29d77ef",
+    "semantic_hash": "ec0cd1a49ee0c318e5fbb133f29d77ef"
+  },
+  "/Users/nemesis/Developer/spotter-assignment/frontend/index.html": {
+    "mtime": 1789831072.2403982,
+    "ast_hash": "5ca2846a4eea0eee74307e1b3adf9331",
+    "semantic_hash": "5ca2846a4eea0eee74307e1b3adf9331"
+  }
+}

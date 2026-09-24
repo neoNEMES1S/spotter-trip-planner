@@ -11,5 +11,6 @@ staticfiles/
 *.sqlite3
 .DS_Store
 .superdesign/tmp/
+SUBMISSION.md
 test-results/
 playwright-report/
